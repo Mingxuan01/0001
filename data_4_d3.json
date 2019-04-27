@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "group": 10,
+      "id": "Y4"
+    },
+    {
+      "group": 3,
+      "id": "I4"
+    },
+    {
+      "group": 3,
+      "id": "I3"
+    },
+    {
+      "group": 4,
+      "id": "P5"
+    },
+    {
+      "group": 0,
+      "id": "A3"
+    },
+    {
+      "group": 11,
+      "id": "Z4"
+    },
+    {
+      "group": 4,
+      "id": "P4"
+    },
+    {
+      "group": 7,
+      "id": "V4"
+    },
+    {
+      "group": 2,
+      "id": "H4"
+    },
+    {
+      "group": 8,
+      "id": "W2"
+    },
+    {
+      "group": 11,
+      "id": "Z2"
+    },
+    {
+      "group": 3,
+      "id": "I2"
+    },
+    {
+      "group": 6,
+      "id": "T2"
+    },
+    {
+      "group": 0,
+      "id": "A1"
+    },
+    {
+      "group": 7,
+      "id": "V2"
+    },
+    {
+      "group": 3,
+      "id": "I7"
+    },
+    {
+      "group": 0,
+      "id": "A2"
+    },
+    {
+      "group": 1,
+      "id": "G2"
+    },
+    {
+      "group": 6,
+      "id": "T5"
+    },
+    {
+      "group": 9,
+      "id": "X2"
+    },
+    {
+      "group": 7,
+      "id": "VL"
+    },
+    {
+      "group": 2,
+      "id": "H7"
+    },
+    {
+      "group": 11,
+      "id": "Z1"
+    },
+    {
+      "group": 1,
+      "id": "G1"
+    },
+    {
+      "group": 3,
+      "id": "I1"
+    },
+    {
+      "group": 10,
+      "id": "Y7"
+    },
+    {
+      "group": 7,
+      "id": "V3"
+    },
+    {
+      "group": 6,
+      "id": "T4"
+    },
+    {
+      "group": 5,
+      "id": "S2"
+    },
+    {
+      "group": 1,
+      "id": "G3"
+    },
+    {
+      "group": 3,
+      "id": "I5"
+    },
+    {
+      "group": 6,
+      "id": "T1"
+    }
+  ],
+  "links": [
+    {
+      "value": 3,
+      "target": "I4",
+      "source": "W2"
+    },
+    {
+      "value": 3,
+      "target": "W2",
+      "source": "H4"
+    },
+    {
+      "value": 3,
+      "target": "I4",
+      "source": "Y4"
+    },
+    {
+      "value": 1,
+      "target": "Y4",
+      "source": "I4"
+    },
+    {
+      "value": 1,
+      "target": "I4",
+      "source": "I4"
+    },
+    {
+      "value": 1,
+      "target": "Y4",
+      "source": "Y4"
+    },
+    {
+      "value": 1,
+      "target": "H4",
+      "source": "Y4"
+    },
+    {
+      "value": 1,
+      "target": "P4",
+      "source": "Z2"
+    },
+    {
+      "value": 1,
+      "target": "H4",
+      "source": "H4"
+    }
+  ]
+}
